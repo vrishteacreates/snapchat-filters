@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+mp_env/
+
+# Captured photos
+captures/*.jpg
+captures/*.png
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
